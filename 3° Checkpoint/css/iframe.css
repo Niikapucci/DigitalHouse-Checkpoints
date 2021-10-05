@@ -1,0 +1,9 @@
+figure, iframe {
+    aspect-ratio: 16/9;
+    width: 90%;
+    max-width:1000px;
+}
+
+iframe{
+    margin: 1rem;
+}
